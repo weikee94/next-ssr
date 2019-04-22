@@ -6,6 +6,46 @@ const Notes = () => {
     <div>
       <h1>Notes</h1>
       <a href="https://jsonplaceholder.typicode.com">fake api</a>
+      <a href="https://www.mockapi.io">mock api</a>
+      <a href="https://fastlane.tools/">app automation fastlane</a>
+      <a href="http://react-china.org/t/topic/10499/9">hide webpack data</a>
+      <a href="https://github.com/wallstreetcn/webpack-and-spa-guide">
+        webpack 4 spa guide
+      </a>
+      <a href="https://panjiachen.github.io/awesome-bookmarks/blog/webpack/webpack4-a.html">
+        webpack 4 update
+      </a>
+      <a href="https://medium.freecodecamp.org/how-to-develop-react-js-apps-fast-using-webpack-4-3d772db957e4">
+        webpack 4 setup
+      </a>
+      <a href="https://juejin.im/post/5c62b92de51d457fd77b22ce">
+        frontend interview
+      </a>
+      <a href="https://www.yuque.com/fe9/basic?fbclid=IwAR2ABOv33TSVWst11GAe4Y3MLghc-2TU18UXLBPPYYbty415NoZv0dkeWxk">
+        前端九部
+      </a>
+      <a href="https://ionicons.com/">icon collector</a>
+      <a href="https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e">
+        right way to write react
+      </a>
+      <a href="https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849">
+        css naming
+      </a>
+      <a href="https://blog.techbridge.cc/2019/01/26/functional-css/?fbclid=IwAR1pmsA83QO_JoJ7xXOsi8UAiQY03uNK2m_jpoDhoLwG4RFq24YgiaMSgwM">
+        functional css
+      </a>
+      <a href="https://adamwathan.me/css-utility-classes-and-separation-of-concerns/?fbclid=IwAR2c6KmHVrvJjYGPa4o7JLDmzJJQp2AVaXxZLZu8KaHa_jPAfNUWS04lup8">
+        css utility
+      </a>
+      <a href="https://www.kaggle.com/">data science kaggle</a>
+      <a href="https://www.twitch.tv/codetv_io/">twitch code live</a>
+      <a href="https://blog.solutotlv.com/size-matters/">
+        react native responsive
+      </a>
+      <a href="https://medium.com/@KenjiChao/2016-17-%E7%BE%8E%E5%9C%8B%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%B1%82%E8%81%B7%E5%BF%83%E5%BE%97-a5c00427fa73">
+        interview us
+      </a>
+      <a href="https://github.com/cereallarceny/cra-ssr">cra-ssr</a>
     </div>
   );
 };
