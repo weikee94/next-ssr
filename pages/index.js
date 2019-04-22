@@ -20,6 +20,9 @@ const Index = () => (
     <Link href="/robots">
       <button>Robots</button>
     </Link>
+    <Link href="/notes">
+      <button>Notes</button>
+    </Link>
   </div>
 );
 
