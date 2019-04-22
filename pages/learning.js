@@ -75,6 +75,16 @@ const Learning = () => {
             gatsby bootcamp
           </a>
         </li>
+        <li>
+          <a href="https://gist.github.com/jesperorb/86952f98ed7ea3d1fbfa54824b22eee0">
+            deploy to heroku
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.freecodecamp.org/how-to-use-react-lazy-and-suspense-for-components-lazy-loading-8d420ecac58">
+            react lazy loading
+          </a>
+        </li>
       </ul>
     </div>
   );

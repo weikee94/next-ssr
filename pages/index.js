@@ -23,6 +23,18 @@ const Index = () => (
     <Link href="/notes">
       <button>Notes</button>
     </Link>
+    <Link href="/dsalgo">
+      <button>Dsalgo</button>
+    </Link>
+    <Link href="/learning">
+      <button>Learning</button>
+    </Link>
+    <Link href="/people">
+      <button>People</button>
+    </Link>
+    <Link href="/tools">
+      <button>Tools</button>
+    </Link>
   </div>
 );
 

@@ -106,6 +106,31 @@ const Notes = () => {
           </a>
         </li>
         <li>
+          <a href="https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418">
+            react native layout
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c">
+            react native layout cheatsheet
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4">
+            react native flexbox layout
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/d-d-mag/%E6%B7%B1%E5%85%A5%E6%8E%A2%E8%A8%8E-redux-%E8%88%87-react-redux-f6230d6ae83f">
+            react redux
+          </a>
+        </li>
+        <li>
+          <a href="https://blog.reactnativecoach.com/understanding-flex-in-react-native-b34dfb4b16d1">
+            flebox react native
+          </a>
+        </li>
+        <li>
           <a href="https://cloudinary.com/">image cdn </a>
         </li>
         <li>
@@ -115,6 +140,36 @@ const Notes = () => {
           <a href="https://react-native.shop/">
             react native idea and ui practice
           </a>
+        </li>
+        <li>
+          <a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d">
+            ideas
+          </a>
+        </li>
+        <li>
+          ssr
+          <ul>
+            <li>
+              <a href="https://medium.com/@cereallarceny/server-side-rendering-with-create-react-app-fiber-react-router-v4-helmet-redux-and-thunk-275cb25ca972">
+                ssr part one
+              </a>
+            </li>
+            <li>
+              <a href="https://medium.com/@cereallarceny/server-side-rendering-in-create-react-app-with-all-the-goodies-without-ejecting-4c889d7db25e">
+                ssr part two
+              </a>
+            </li>
+            <li>
+              <a href="https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4">
+                react ssr
+              </a>
+            </li>
+            <li>
+              <a href="https://scotch.io/tutorials/getting-started-with-react-hooks?fbclid=IwAR0maYiuJTL8221_Aeti6GaMbiXHo4vQZPRsV8VIkY341vzq8nHR4tv2M_Q">
+                react hooks
+              </a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>
