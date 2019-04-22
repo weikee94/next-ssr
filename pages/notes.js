@@ -85,6 +85,37 @@ const Notes = () => {
         <li>
           <a href="https://github.com/cereallarceny/cra-ssr">cra-ssr</a>
         </li>
+        <li>
+          <a href="https://blog.csdn.net/qq_42185834/article/details/80459309">
+            react native full screen
+          </a>
+        </li>
+        <li>
+          <a href="https://blog.callstack.io/react-native-meets-iphonex-a0f5034f7a41">
+            iphonex react native
+          </a>
+        </li>
+        <li>
+          <a href="https://codepen.io/srph/pen/WrPywK?editors=1111">
+            react tagging input
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/@shanerudolfworktive/7-tips-to-develop-react-native-uis-for-all-screen-sizes-7ec5271be25c">
+            react native all screens
+          </a>
+        </li>
+        <li>
+          <a href="https://cloudinary.com/">image cdn </a>
+        </li>
+        <li>
+          <a href="https://www.sparksine.com/">看书的地方</a>
+        </li>
+        <li>
+          <a href="https://react-native.shop/">
+            react native idea and ui practice
+          </a>
+        </li>
       </ul>
     </div>
   );
