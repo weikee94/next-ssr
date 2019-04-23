@@ -35,6 +35,10 @@ const Index = () => (
     <Link href="/tools">
       <button>Tools</button>
     </Link>
+    <Link href="/music">
+      <button>Music</button>
+    </Link>
+    <a href="https://www.youtube.com/watch?v=W94GFCv00A0">tech design</a>
   </div>
 );
 

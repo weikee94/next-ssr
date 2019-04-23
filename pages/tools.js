@@ -10,6 +10,11 @@ const Tools = () => {
             好用工具
           </a>
         </li>
+        <li>
+          <a href="https://www.fotojet.com/tw/apps/?entry=design">
+            icon designs
+          </a>
+        </li>
       </ul>
     </div>
   );
