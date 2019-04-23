@@ -52,6 +52,9 @@ const Index = () => (
     <Link href="/music">
       <span>Music</span>
     </Link>
+    <Link href="/testing">
+      <span>Testing</span>
+    </Link>
     <span>
       <a href="https://www.youtube.com/watch?v=W94GFCv00A0">tech design</a>
     </span>
