@@ -12,33 +12,49 @@ const Index = () => (
         font-weight: 400;
         font-style: normal;
       }
+      span {
+        font-family: brandon-grotesque;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 11px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        margin: 0 0.618em;
+      }
+      span:hover {
+        color: rgba(34, 34, 34, 0.4);
+        cursor: pointer;
+      }
     `}</style>
-    <h1>SSR Magician</h1>
-    <Link href="/about">
-      <button>About</button>
+    <h1>Wkee0701</h1>
+    {/* <Link href="/about">
+      <p>about</p>
     </Link>
     <Link href="/robots">
-      <button>Robots</button>
-    </Link>
+      <span>Robots</span>
+      <p>robots</p>
+    </Link> */}
     <Link href="/notes">
-      <button>Notes</button>
+      <span>Notes</span>
     </Link>
     <Link href="/dsalgo">
-      <button>Dsalgo</button>
+      <span>Dsalgo</span>
     </Link>
     <Link href="/learning">
-      <button>Learning</button>
+      <span>Learning</span>
     </Link>
     <Link href="/people">
-      <button>People</button>
+      <span>People</span>
     </Link>
     <Link href="/tools">
-      <button>Tools</button>
+      <span>Tools</span>
     </Link>
     <Link href="/music">
-      <button>Music</button>
+      <span>Music</span>
     </Link>
-    <a href="https://www.youtube.com/watch?v=W94GFCv00A0">tech design</a>
+    <span>
+      <a href="https://www.youtube.com/watch?v=W94GFCv00A0">tech design</a>
+    </span>
   </div>
 );
 
