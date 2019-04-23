@@ -11231,7 +11231,7 @@ var Index = function Index() {
   })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "3792235782",
     __self: this
-  }, "h1.jsx-3792235782{font-family:brandon-grotesque,sans-serif;font-weight:400;font-style:normal;}span.jsx-3792235782{font-family:brandon-grotesque;font-weight:700;font-style:normal;font-size:11px;-webkit-letter-spacing:0.14em;-moz-letter-spacing:0.14em;-ms-letter-spacing:0.14em;letter-spacing:0.14em;text-transform:uppercase;margin:0 0.618em;}span.jsx-3792235782:hover{color:rgba(34,34,34,0.4);cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy93ZWlrZWVoYXcvRG9jdW1lbnRzL25leHQtc3NyL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVFnQixBQUdtRCxBQUtaLEFBU0YseUJBQ2IsS0FUQyxVQVVsQixDQWZrQixLQU1FLFdBTEEsT0FNSCxXQUxqQixJQU13Qix5R0FDRyx5QkFDUixpQkFDbkIiLCJmaWxlIjoiL1VzZXJzL3dlaWtlZWhhdy9Eb2N1bWVudHMvbmV4dC1zc3IvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5pbXBvcnQgSGVhZCBmcm9tIFwibmV4dC9oZWFkXCI7XG5cbmNvbnN0IEluZGV4ID0gKCkgPT4gKFxuICA8ZGl2PlxuICAgIDxIZWFkPlxuICAgICAgPGxpbmsgcmVsPVwic3R5bGVzaGVldFwiIGhyZWY9XCJodHRwczovL3VzZS50eXBla2l0Lm5ldC94aWM1cWtqLmNzc1wiIC8+XG4gICAgPC9IZWFkPlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIGgxIHtcbiAgICAgICAgZm9udC1mYW1pbHk6IGJyYW5kb24tZ3JvdGVzcXVlLCBzYW5zLXNlcmlmO1xuICAgICAgICBmb250LXdlaWdodDogNDAwO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICB9XG4gICAgICBzcGFuIHtcbiAgICAgICAgZm9udC1mYW1pbHk6IGJyYW5kb24tZ3JvdGVzcXVlO1xuICAgICAgICBmb250LXdlaWdodDogNzAwO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIGZvbnQtc2l6ZTogMTFweDtcbiAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMTRlbTtcbiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbiAgICAgICAgbWFyZ2luOiAwIDAuNjE4ZW07XG4gICAgICB9XG4gICAgICBzcGFuOmhvdmVyIHtcbiAgICAgICAgY29sb3I6IHJnYmEoMzQsIDM0LCAzNCwgMC40KTtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgICA8aDE+V2tlZTA3MDE8L2gxPlxuICAgIHsvKiA8TGluayBocmVmPVwiL2Fib3V0XCI+XG4gICAgICA8cD5hYm91dDwvcD5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9yb2JvdHNcIj5cbiAgICAgIDxzcGFuPlJvYm90czwvc3Bhbj5cbiAgICAgIDxwPnJvYm90czwvcD5cbiAgICA8L0xpbms+ICovfVxuICAgIDxMaW5rIGhyZWY9XCIvbm90ZXNcIj5cbiAgICAgIDxzcGFuPk5vdGVzPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2RzYWxnb1wiPlxuICAgICAgPHNwYW4+RHNhbGdvPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2xlYXJuaW5nXCI+XG4gICAgICA8c3Bhbj5MZWFybmluZzwvc3Bhbj5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9wZW9wbGVcIj5cbiAgICAgIDxzcGFuPlBlb3BsZTwvc3Bhbj5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi90b29sc1wiPlxuICAgICAgPHNwYW4+VG9vbHM8L3NwYW4+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvbXVzaWNcIj5cbiAgICAgIDxzcGFuPk11c2ljPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8c3Bhbj5cbiAgICAgIDxhIGhyZWY9XCJodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVc5NEdGQ3YwMEEwXCI+dGVjaCBkZXNpZ248L2E+XG4gICAgPC9zcGFuPlxuICA8L2Rpdj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEluZGV4O1xuIl19 */\n/*@ sourceURL=/Users/weikeehaw/Documents/next-ssr/pages/index.js */"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
+  }, "h1.jsx-3792235782{font-family:brandon-grotesque,sans-serif;font-weight:400;font-style:normal;}span.jsx-3792235782{font-family:brandon-grotesque;font-weight:700;font-style:normal;font-size:11px;-webkit-letter-spacing:0.14em;-moz-letter-spacing:0.14em;-ms-letter-spacing:0.14em;letter-spacing:0.14em;text-transform:uppercase;margin:0 0.618em;}span.jsx-3792235782:hover{color:rgba(34,34,34,0.4);cursor:pointer;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy93ZWlrZWVoYXcvRG9jdW1lbnRzL25leHQtc3NyL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVFnQixBQUdtRCxBQUtaLEFBU0YseUJBQ2IsS0FUQyxVQVVsQixDQWZrQixLQU1FLFdBTEEsT0FNSCxXQUxqQixJQU13Qix5R0FDRyx5QkFDUixpQkFDbkIiLCJmaWxlIjoiL1VzZXJzL3dlaWtlZWhhdy9Eb2N1bWVudHMvbmV4dC1zc3IvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5pbXBvcnQgSGVhZCBmcm9tIFwibmV4dC9oZWFkXCI7XG5cbmNvbnN0IEluZGV4ID0gKCkgPT4gKFxuICA8ZGl2PlxuICAgIDxIZWFkPlxuICAgICAgPGxpbmsgcmVsPVwic3R5bGVzaGVldFwiIGhyZWY9XCJodHRwczovL3VzZS50eXBla2l0Lm5ldC94aWM1cWtqLmNzc1wiIC8+XG4gICAgPC9IZWFkPlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIGgxIHtcbiAgICAgICAgZm9udC1mYW1pbHk6IGJyYW5kb24tZ3JvdGVzcXVlLCBzYW5zLXNlcmlmO1xuICAgICAgICBmb250LXdlaWdodDogNDAwO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICB9XG4gICAgICBzcGFuIHtcbiAgICAgICAgZm9udC1mYW1pbHk6IGJyYW5kb24tZ3JvdGVzcXVlO1xuICAgICAgICBmb250LXdlaWdodDogNzAwO1xuICAgICAgICBmb250LXN0eWxlOiBub3JtYWw7XG4gICAgICAgIGZvbnQtc2l6ZTogMTFweDtcbiAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMTRlbTtcbiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbiAgICAgICAgbWFyZ2luOiAwIDAuNjE4ZW07XG4gICAgICB9XG4gICAgICBzcGFuOmhvdmVyIHtcbiAgICAgICAgY29sb3I6IHJnYmEoMzQsIDM0LCAzNCwgMC40KTtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgICA8aDE+V2tlZTA3MDE8L2gxPlxuICAgIHsvKiA8TGluayBocmVmPVwiL2Fib3V0XCI+XG4gICAgICA8cD5hYm91dDwvcD5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9yb2JvdHNcIj5cbiAgICAgIDxzcGFuPlJvYm90czwvc3Bhbj5cbiAgICAgIDxwPnJvYm90czwvcD5cbiAgICA8L0xpbms+ICovfVxuICAgIDxMaW5rIGhyZWY9XCIvbm90ZXNcIj5cbiAgICAgIDxzcGFuPk5vdGVzPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2RzYWxnb1wiPlxuICAgICAgPHNwYW4+RHNhbGdvPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2xlYXJuaW5nXCI+XG4gICAgICA8c3Bhbj5MZWFybmluZzwvc3Bhbj5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9wZW9wbGVcIj5cbiAgICAgIDxzcGFuPlBlb3BsZTwvc3Bhbj5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi90b29sc1wiPlxuICAgICAgPHNwYW4+VG9vbHM8L3NwYW4+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvbXVzaWNcIj5cbiAgICAgIDxzcGFuPk11c2ljPC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL3Rlc3RpbmdcIj5cbiAgICAgIDxzcGFuPlRlc3Rpbmc8L3NwYW4+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvc3R1ZHlcIj5cbiAgICAgIDxzcGFuPlN0dWR5PC9zcGFuPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2V4cGVyaWVuY2VcIj5cbiAgICAgIDxzcGFuPkV4cGVyaWVuY2U8L3NwYW4+XG4gICAgPC9MaW5rPlxuICAgIDxzcGFuPlxuICAgICAgPGEgaHJlZj1cImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Vzk0R0ZDdjAwQTBcIj50ZWNoIGRlc2lnbjwvYT5cbiAgICA8L3NwYW4+XG4gIDwvZGl2PlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgSW5kZXg7XG4iXX0= */\n/*@ sourceURL=/Users/weikeehaw/Documents/next-ssr/pages/index.js */"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
     className: "jsx-3792235782",
     __source: {
       fileName: _jsxFileName,
@@ -11322,11 +11322,53 @@ var Index = function Index() {
       lineNumber: 53
     },
     __self: this
-  }, "Music")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
-    className: "jsx-3792235782",
+  }, "Music")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: "/testing",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 55
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-3792235782",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 56
+    },
+    __self: this
+  }, "Testing")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: "/study",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-3792235782",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59
+    },
+    __self: this
+  }, "Study")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: "/experience",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-3792235782",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 62
+    },
+    __self: this
+  }, "Experience")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-3792235782",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 64
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -11334,7 +11376,7 @@ var Index = function Index() {
     className: "jsx-3792235782",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 65
     },
     __self: this
   }, "tech design")));

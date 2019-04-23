@@ -16,6 +16,9 @@ const Study = () => {
         <li>Khanacademy</li>
         <li>Treehouse</li>
         <li>Lynda</li>
+        <li>Skillshare</li>
+        <li>Coursecontent</li>
+        <li>Brilliant</li>
         <li>rails365</li>
         <li>imooc</li>
         <li>codewars</li>

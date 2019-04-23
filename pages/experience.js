@@ -203,6 +203,69 @@ const Experience = () => {
             scroll view animated header
           </a>
         </li>
+        <li>
+          <a href="https://zhuanlan.zhihu.com/p/33357353">port in use</a>
+        </li>
+        <li>
+          <a href="https://github.com/tcoopman/image-webpack-loader/issues/167">
+            webpack image error in safari browser
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://juejin.im/post/5c4bfd89e51d45215c2e5a76
+"
+          >
+            webpack 4 update reference
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://macpaw.com/how-to/show-hidden-files-on-mac
+"
+          >
+            show hidden folder
+          </a>
+        </li>
+        <li>
+          <a href="https://www.howtogeek.com/230145/how-to-uninstall-java-on-mac-os-x/">
+            uninstall java from mac os
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/wix/react-native-navigation/issues/1407">
+            app tab font size
+          </a>
+        </li>
+        <li>
+          <a href="https://www.jianshu.com/p/016d069722cd">
+            react native navigation details
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://zhuanlan.zhihu.com/p/29495955
+"
+          >
+            android splash screen
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.google.com.sg/search?q=how+to+find+library+in+mac&oq=how+to+find+libra&aqs=chrome.1.69i57j0l5.3790j0j7&sourceid=chrome&ie=UTF-8
+"
+          >
+            libray in mac
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.cnet.com/news/using-the-os-x-terminal-instead-of-the-finder-to-copy-files/
+"
+          >
+            copy files
+          </a>
+        </li>
       </ul>
     </div>
   );

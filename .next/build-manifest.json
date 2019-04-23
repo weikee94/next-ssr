@@ -15,11 +15,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/index": [
+    "/experience": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/people": [
+    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
