@@ -169,6 +169,11 @@ const Notes = () => {
                 react hooks
               </a>
             </li>
+            <li>
+              <a href="https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advantage-of.html">
+                android full screen
+              </a>
+            </li>
           </ul>
         </li>
       </ul>
