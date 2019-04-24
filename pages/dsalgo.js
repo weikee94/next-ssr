@@ -29,6 +29,15 @@ const Dsalgo = () => {
           </a>
         </li>
       </ul>
+      <p>
+        <p>
+          <img
+            style={{ width: "100%" }}
+            src="/static/bigorule3.jpg"
+            alt="roadmap"
+          />
+        </p>
+      </p>
     </div>
   );
 };
