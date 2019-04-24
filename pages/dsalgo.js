@@ -30,13 +30,16 @@ const Dsalgo = () => {
         </li>
       </ul>
       <p>
-        <p>
-          <img
-            style={{ width: "100%" }}
-            src="/static/bigorule3.jpg"
-            alt="roadmap"
-          />
-        </p>
+        <img
+          style={{ width: "50%" }}
+          src="/static/bigorule3.jpg"
+          alt="roadmap"
+        />
+        <img
+          src="/static/oquadratic.jpg"
+          alt="big-o-quadratic"
+          style={{ width: "50%" }}
+        />
       </p>
     </div>
   );
