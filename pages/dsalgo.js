@@ -6,6 +6,9 @@ const Dsalgo = () => {
       <h1>Data structure algorithms</h1>
       <ul>
         <li>
+          <a href="https://repl.it/@wei94/bigo">online example</a>
+        </li>
+        <li>
           <a href="https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/">
             leetcode cn
           </a>
@@ -31,14 +34,14 @@ const Dsalgo = () => {
       </ul>
       <p>
         <img
-          style={{ width: "50%" }}
+          style={{ width: "30%" }}
           src="/static/bigorule3.jpg"
           alt="roadmap"
         />
         <img
+          style={{ width: "30%" }}
           src="/static/oquadratic.jpg"
           alt="big-o-quadratic"
-          style={{ width: "50%" }}
         />
       </p>
     </div>
