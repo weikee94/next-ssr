@@ -65,6 +65,31 @@ function printAllNumbersThenAllPairSums(numbers) {
 printAllNumbersThenAllPairSums([1,2])`}
       </pre>
 
+      <pre className="prettyprint lang-js">
+        {`
+        function booo(n) {
+          for (let i = 0; i < n.length; i++) {
+            console.log("boo")
+          }
+        }
+        
+        booo([1, 2]); // space complexity O(1), only one assignment let i = 0
+      `}
+      </pre>
+
+      <pre className="prettyprint lang-js">
+        {`
+          function arrayofHiNTimes(n) {
+            let hiArray = [];
+            for (let i = 0; i < n; i++) {
+              hiArray[i] = 'i';
+            }
+            return hiArray;
+          }
+          
+          arrayofHiNTimes(2); // space complexity O(n), cuz we create the array with "i" item and each "i" consider add additional memory
+        `}
+      </pre>
       <ul>
         <li>
           <a href="https://repl.it/@wei94/bigo">online example</a>
