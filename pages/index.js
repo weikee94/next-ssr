@@ -34,6 +34,7 @@ const Index = () => (
       <span>Robots</span>
       <p>robots</p>
     </Link> */}
+
     <Link href="/notes">
       <span>Notes</span>
     </Link>

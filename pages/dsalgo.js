@@ -1,12 +1,76 @@
 import Link from "next/link";
+import Head from "next/head";
 
 const Dsalgo = () => {
   return (
-    <div style={{ fontSize: "20px", color: "blue" }}>
+    <div>
+      <Head>
+        <link rel="stylesheet" href="https://use.typekit.net/xic5qkj.css" />
+        <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=sunburst" />
+      </Head>
+      <style jsx>{`
+        h1 {
+          font-family: brandon-grotesque, sans-serif;
+          font-weight: 400;
+          font-style: normal;
+        }
+        span {
+          font-family: brandon-grotesque;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 11px;
+          letter-spacing: 0.14em;
+          text-transform: uppercase;
+          margin: 0 0.618em;
+        }
+        span:hover {
+          color: rgba(34, 34, 34, 0.4);
+          cursor: pointer;
+        }
+      `}</style>
       <h1>Data structure algorithms</h1>
+      <pre className="prettyprint lang-js">{`// log all pairs of array
+const boxes = [1,2,3,4,5];
+
+function logAllPairsOfArray(array) {
+  for (let i = 0; i < array.length; i++) {
+    for (let j = 0; j < array.length; j++) {
+      console.log(array[i], array[j])
+    }
+  }
+}
+
+logAllPairsOfArray(boxes);
+
+// O(n^2) nested for loop - quadratic time
+
+`}</pre>
+
+      <pre className="prettyprint lang-js">
+        {`// print all numbers and all pair sums
+function printAllNumbersThenAllPairSums(numbers) {
+  console.log('these are numbers');
+  numbers.forEach(function(number) {
+    console.log(number)
+  })
+
+  console.log('these are the sums');
+  numbers.forEach(function(firstNumber) {
+    numbers.forEach(function(secondNumber) {
+      console.log(firstNumber + secondNumber);
+    })
+  })
+}
+
+printAllNumbersThenAllPairSums([1,2])`}
+      </pre>
+
       <ul>
         <li>
           <a href="https://repl.it/@wei94/bigo">online example</a>
+        </li>
+        <li>
+          <a href="http://bigocheatsheet.com/">big o cheat sheet</a>
         </li>
         <li>
           <a href="https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/">
