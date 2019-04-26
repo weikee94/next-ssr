@@ -6,9 +6,16 @@ const Dsalgo = () => {
     <div>
       <Head>
         <link rel="stylesheet" href="https://use.typekit.net/xic5qkj.css" />
-        <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=sunburst" />
+        <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=default" />
       </Head>
       <style jsx>{`
+        pre.prettyprint {
+          border: none !important;
+          font-family: Consolas, Menlo, Monaco, "Lucida Console",
+            "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+            "Courier New", monospace, sans-serif;
+          background-color: rgb(239, 240, 241);
+        }
         h1 {
           font-family: brandon-grotesque, sans-serif;
           font-weight: 400;
