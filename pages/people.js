@@ -25,6 +25,9 @@ const People = () => {
         <li>
           <a href="https://hollygabrielle.com/">gabrielle uk</a>
         </li>
+        <li>
+          <a href="https://github.com/54sword">54sword</a>
+        </li>
       </ul>
     </div>
   );
