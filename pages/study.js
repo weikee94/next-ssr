@@ -24,6 +24,10 @@ const Study = () => {
         <li>codewars</li>
         <li>leetcode</li>
         <li>
+          geeksforgeeks
+          <a href="https://www.geeksforgeeks.org/" />
+        </li>
+        <li>
           <a href="https://www.kocpc.com.tw/archives/94122">others</a>
         </li>
         <li>

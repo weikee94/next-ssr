@@ -5,6 +5,10 @@ const Index = () => (
   <div>
     <Head>
       <link rel="stylesheet" href="https://use.typekit.net/xic5qkj.css" />
+      <script
+        type="type/javascript"
+        src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=default"
+      />
     </Head>
     <style jsx>{`
       h1 {

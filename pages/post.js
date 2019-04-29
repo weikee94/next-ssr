@@ -1,7 +1,11 @@
 import { withRouter } from "next/router";
+import Head from "next/head";
 
 const Page = withRouter(props => (
   <div>
+    <Head>
+      <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=default" />
+    </Head>
     <style jsx>{`
       pre.prettyprint {
         border: none !important;
@@ -85,6 +89,27 @@ const Page = withRouter(props => (
       {`
         const reverse4 = str => [...str].reverse().join('');
       `}
+    </pre>
+
+    <p>
+      merge sorted array - In this case a - b returns a negative number if a is
+      smaller than b – so a will be sorted to the left of b a positive number if
+      a is bigger than b – so a will be sorted to the right of b zero if they
+      are equal – so it doesn’t matter which one comes first
+    </p>
+
+    <pre className="prettyprint lang-js">
+      {`
+        function mArr(arrA, arrB) {
+
+            const concatArr = arrA.concat(arrB);
+        
+            concatArr.sort((a, b) => {
+                return b - a;
+            })
+            return concatArr;
+        }
+        `}
     </pre>
   </div>
 ));
