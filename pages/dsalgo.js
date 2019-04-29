@@ -1,6 +1,12 @@
 import Link from "next/link";
 import Head from "next/head";
 
+const PostLink = props => (
+  <Link href={`/post?type=${props.type}`}>
+    <a>{props.type}</a>
+  </Link>
+);
+
 const Dsalgo = () => {
   return (
     <div>
@@ -140,6 +146,7 @@ printAllNumbersThenAllPairSums([1,2])`}
           alt="big-o-quadratic"
         />
       </p>
+      <PostLink type="array" />
     </div>
   );
 };
