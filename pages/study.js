@@ -24,6 +24,14 @@ const Study = () => {
         <li>codewars</li>
         <li>leetcode</li>
         <li>
+          <a href="https://open.appacademy.io/">app academy</a>
+        </li>
+        <li>
+          <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">
+            data structure visualizations
+          </a>
+        </li>
+        <li>
           geeksforgeeks
           <a href="https://www.geeksforgeeks.org/" />
         </li>
