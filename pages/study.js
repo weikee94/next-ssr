@@ -24,6 +24,9 @@ const Study = () => {
         <li>codewars</li>
         <li>leetcode</li>
         <li>
+          <a href="https://visualgo.net/en/sorting">visual algo</a>
+        </li>
+        <li>
           <a href="https://open.appacademy.io/">app academy</a>
         </li>
         <li>
