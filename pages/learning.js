@@ -203,6 +203,9 @@ const Learning = () => {
             tax
           </a>
         </li>
+        <li>
+          <a href="https://bennettfeely.com/clippy/">css clip path maker</a>
+        </li>
       </ul>
     </div>
   );
