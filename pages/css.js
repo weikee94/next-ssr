@@ -91,6 +91,13 @@ export default class css extends Component {
             <div>Lorem</div>
             <div>Lorem</div>
           </div>
+          <div className="wrapperFourNested">
+            <div>
+              <span>Lorem</span>
+            </div>
+            <div>Lorem</div>
+            <div>Lorem</div>
+          </div>
         </div>
         <div className="wrapperFive">
           <img
@@ -155,6 +162,20 @@ export default class css extends Component {
           .wrapperFour > div {
             background: #eee;
             padding: 1em;
+          }
+          .wrapperFourNested {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 1em;
+            grid-auto-rows: minmax(20px, auto);
+          }
+          .wrapperFourNested > div {
+            border: 1px solid #333;
+            padding: 0.5em;
+            text-align: center;
+          }
+          .wrapperFourNested > div > span {
+            align-items: center;
           }
           .wrapperFive {
             display: grid;

@@ -206,6 +206,11 @@ const Learning = () => {
         <li>
           <a href="https://bennettfeely.com/clippy/">css clip path maker</a>
         </li>
+        <li>
+          <a href="https://dev.to/sarah_chima/nesting-in-sass-bme">
+            reference website
+          </a>
+        </li>
       </ul>
     </div>
   );
