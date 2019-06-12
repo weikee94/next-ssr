@@ -6,6 +6,45 @@ export default class css extends Component {
       <div>
         <div>
           <ul>
+            <li>
+              rem and em units are computed into pixel values by the browser,
+              based on font sizes in your design.
+            </li>
+            <li>
+              em units are based on the font size of the element they’re used
+              on.
+            </li>
+            <li>
+              em units can be influenced by font size inheritance from any
+              parent element
+            </li>
+            <li>
+              Use em units for sizing that should scale depending on the font
+              size of an element other than the root.
+            </li>
+            <li>rem units are based on the font size of the html element.</li>
+            <li>
+              rem units can be influenced by font size inheritance from browser
+              font settings.
+            </li>
+            <li>
+              Use rem units for sizing that doesn’t need em units, and that
+              should scale depending on browser font size settings.
+            </li>
+            <li>
+              Use rem units unless you’re sure you need em units, including on
+              font sizes.
+            </li>
+            <li>Use rem units on media queries</li>
+            <li>
+              Don’t use em or rem in multi column layout widths - use % instead.
+            </li>
+            <li>
+              Don’t use em or rem if scaling would unavoidably cause a layout
+              element to break.
+            </li>
+          </ul>
+          <ul>
             <li>grid-template-column prefer using fr</li>
             <li>grid-row-gap</li>
             <li>grid-column-gap</li>
